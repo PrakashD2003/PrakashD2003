@@ -54,7 +54,7 @@ An end-to-end MLOps system for predicting vehicle insurance adoption using real-
 
 ---
 
-### 🤖 Personal Voice Assistant – “JARVIS”
+### 🤖 [Personal Voice Assistant – “JARVIS”](https://github.com/PrakashD2003/Jarvice-Personal-Voice-Assistant)
 Python automation assistant with voice command support for media playback, app launching, and real-time Q&A using GPT.
 
 **Tech Stack:** Python, OpenAI API, pywhatkit, gTTS, SpeechRecognition, Pandas, Spotify Web API
