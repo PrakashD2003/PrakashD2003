@@ -8,22 +8,26 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Second-year B.Tech student in Computer Science and Engineering (AI/ML)  
+- 🎓 Third-year B.Tech student in Computer Science and Engineering (AI/ML)  
 - 🛠️ Focused on **end-to-end ML pipelines**, **MLOps automation**, and **cloud-native deployment**
-- 🌐 Hands-on with AWS (EC2, S3, ECR, IAM, Lambda, SageMaker, CloudWatch, EKS)
+- 🌐 Hands-on with AWS (EC2, S3, IAM, Lambda, SageMaker, CloudWatch, EKS) and Azure
 - 🧪 Working on real-world MLOps at **Edera** with CI/CD, infrastructure as code, and model deployment
-- 📚 Learning never stops — always experimenting with DevOps, FastAPI, MLflow, and Kubernetes!
+- 📚 Learning never stops — always experimenting with Databricks, LangChain, and Agentic AI systems!
 
 ---
 
 ## 🚀 Skills & Tools
 
 - **Languages:** Python, C++
+- **AI/LLM Tools:** LangChain, Agentic AI, OpenAI API
 - **ML Frameworks:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, FastAPI, Flask
 - **MLOps:** MLflow, DVC, Docker, GitHub Actions (CI/CD), Kubeflow, Feast
-- **Cloud & Infra:** AWS (EC2, S3, ECR, IAM, SageMaker, Lambda, DynamoDB, CloudWatch, SNS, EKS), Terraform, Ansible, Kubernetes, Prometheus, Grafana
-- **Databases:** MongoDB, MySQL
-- **Other Tools:** Git, VS Code, Jupyter, OpenAI API (basic)
+- **Cloud & Infra:**  
+  - **AWS:** EC2, S3, ECR, IAM (roles & policies), Lambda, SageMaker, DynamoDB, CloudWatch (logs, dashboards, alarms), SNS, EKS, VPC & Networking (subnets, route tables, security groups), Load Balancers (ALB/ELB) 
+  - **Other Platforms:** Azure, Databricks  
+  - **IaC & Monitoring:** Terraform, Ansible, Kubernetes, Prometheus, Grafana  
+- **Databases & Query Languages:** SQL, MongoDB, MySQL  
+- **Other Tools:** Git, VS Code, Jupyter  
 - **CS Fundamentals:** Data Structures & Algorithms (DSA)
 
 ---
@@ -46,7 +50,7 @@ _March 2025 – Present_
 ### 🔧 [Vehicle Insurance Prediction – MLOps Pipeline](https://github.com/PrakashD2003/Vehicle-Insurance-Prediction-Mlops-Project)
 An end-to-end MLOps system for predicting vehicle insurance adoption using real-world data.
 
-**Tech Stack:** MongoDB, Scikit-learn, FastAPI, Flask, Docker, Terraform, Ansible, GitHub Actions, AWS (EC2, S3, ECR, IAM), MLflow, DVC
+**Tech Stack:** MongoDB, Scikit-learn, FastAPI, Flask, Docker, Terraform, Ansible, GitHub Actions, AWS (EC2, S3, ECR, IAM, CloudWatch), MLflow, DVC
 
 - Built modular ML pipeline: data ingestion → validation → transformation → model training → deployment
 - Deployed real-time predictions using Dockerized FastAPI on AWS EC2
@@ -57,15 +61,18 @@ An end-to-end MLOps system for predicting vehicle insurance adoption using real-
 ### 🤖 [Personal Voice Assistant – “JARVIS”](https://github.com/PrakashD2003/Jarvice-Personal-Voice-Assistant)
 Python automation assistant with voice command support for media playback, app launching, and real-time Q&A using GPT.
 
-**Tech Stack:** Python, OpenAI API, pywhatkit, gTTS, SpeechRecognition, Pandas, Spotify Web API
+**Tech Stack:** Python, OpenAI API, LangChain, pywhatkit, gTTS, SpeechRecognition, Pandas, Spotify Web API  
 
-- Built a plugin-based system with AUMID-based app launching
-- Integrated GPT for dynamic Q&A
-- Used subprocess and automation APIs to perform system-level tasks
+- Built a plugin-based system with AUMID-based app launching  
+- Integrated GPT & LangChain for dynamic Q&A  
+- Used subprocess and automation APIs to perform system-level tasks  
 
 ---
 
 ## 🏅 Certifications
+
+- **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**  
+  [View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D039486945A6846B2C0CD66E2A42D9FEFA6E351327715B4EB874B49143C9F9C3)
 
 - **Pregrad – Artificial Intelligence with Machine Learning**  
   [View Certificate](https://cert.diceid.com/cid/LRfJlFxoXW)
