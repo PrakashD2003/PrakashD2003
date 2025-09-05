@@ -19,7 +19,7 @@
 ## 🚀 Skills & Tools
 
 - **Languages:** Python, C++
-- **AI/LLM Tools:** LangChain, Agentic AI, OpenAI API
+- **AI/LLM Tools:** LangChain, Agentic AI, RAG Systems, OpenAI API
 - **ML Frameworks:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, FastAPI, Flask
 - **MLOps:** MLflow, DVC, Docker, GitHub Actions (CI/CD), Kubeflow, Feast
 - **Cloud & Infra:**  
