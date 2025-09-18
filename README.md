@@ -89,7 +89,7 @@ Python automation assistant with voice command support for media playback, app l
   [View Certificate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=47BC450B202B8E728B17BD6011BBC1B46405D6815984179551BC1210690045ED)
 
 - **Oracle Cloud Infrastructure 2025 Certified Data Science Professional**  
-  [View Certificate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=47BC450B202B8E728B17BD6011BBC1B46405D6815984179551BC1210690045ED)
+  [View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F6E35042998134C4213BAEB4EC38D9D6A9AB1A3BD756E1CC2A4526B87014A55F)
 
 - **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**  
   [View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D039486945A6846B2C0CD66E2A42D9FEFA6E351327715B4EB874B49143C9F9C3)
