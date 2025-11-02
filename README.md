@@ -8,10 +8,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Third-year B.Tech student in Computer Science and Engineering (AI/ML)  
-- 🛠️ Focused on **end-to-end ML pipelines**, **MLOps automation**, and **cloud-native deployment**
-- 🌐 Hands-on with AWS (EC2, S3, IAM, Lambda, SageMaker, CloudWatch, EKS) and Azure
-- 🧪 Working on real-world MLOps at **Edera** with CI/CD, infrastructure as code, and model deployment
+- 🎓 Third-year B.Tech student in Computer Science and Engineering (AI/ML), focused on building **end-to-end ML pipelines**, mastering **MLOps automation**, and **cloud-native deployment**.
+- 🌐 Hands-on with **AWS** (EC2, S3, EKS, SageMaker, CloudWatch), **Terraform**, **Kubernetes**, **Docker**, and **MLflow**.
+- 🧪 Recently completed an intensive 6-month MLOps 'bootcamp' @ **Edera**, which culminated in my successful technical evaluation for a client-facing role.
+- ✅ My GitHub is the portfolio of this work—I build projects that don't just work in notebooks, but deploy, scale, and are monitored in the cloud.
 - 📚 Learning never stops — always experimenting with Databricks, LangChain, and Agentic AI systems!
 
 ---
@@ -22,26 +22,12 @@
 - **AI/LLM Tools:** LangChain, Agentic AI, RAG Systems, OpenAI API  
 - **ML Frameworks:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, FastAPI, Flask  
 - **MLOps:** MLflow, DVC, Docker, GitHub Actions (CI/CD), Kubeflow, Feast  
-- **Cloud & Infra:**  
-  - **AWS:** EC2, S3, ECR, IAM (roles & policies), Lambda, SageMaker, DynamoDB, CloudWatch (logs, dashboards, alarms), SNS, EKS, VPC & Networking (subnets, route tables, security groups), Load Balancers (ALB/ELB)  
+- **Cloud & Infra:** - **AWS:** EC2, S3, ECR, IAM (roles & policies), Lambda, SageMaker, DynamoDB, CloudWatch (logs, dashboards, alarms), SNS, EKS, VPC & Networking (subnets, route tables, security groups), Load Balancers (ALB/ELB)  
   - **Other Platforms:** Azure, Databricks  
   - **IaC & Monitoring:** Terraform, Ansible, Kubernetes, Prometheus, Grafana  
 - **Databases & Query Languages:** SQL, MongoDB, MySQL  
 - **Other Tools:** Git, VS Code, Jupyter  
 - **CS Fundamentals:** Data Structures & Algorithms (DSA)
-
----
-
-## 💼 Internship Experience
-
-**MLOps Intern** @ Edera (Remote)  
-_March 2025 – Present_
-
-- Built end-to-end ML pipelines on AWS with Docker, Terraform, and Ansible  
-- Automated deployment using GitHub Actions and self-hosted EC2 runners  
-- Implemented monitoring with CloudWatch (agent, dashboards, logs, alarms)  
-- Integrated MLflow & DVC for model tracking and versioning  
-- Documented deployment strategies and infrastructure as code best practices  
 
 ---
 
@@ -64,9 +50,8 @@ A production-grade SMS spam detection pipeline with **Kubeflow Pipelines** and *
 
 **Tech Stack:** Python, Kubeflow, MLflow, DagsHub, Docker, GitHub Actions, Kubernetes, Scikit-learn, Pandas, NLTK  
 
-- Orchestrated 6+ modular components (ingestion, preprocessing, training, evaluation, model pusher) using **Kubeflow Pipelines**  
-- Integrated **MLflow & DagsHub** for experiment tracking, model registry, and automated **champion/challenger promotion**  
-- Automated pipeline compilation & deployment with GitHub Actions and Kubernetes runners  
+- Orchestrated 6+ modular components (ingestion, preprocessing, training, evaluation, model pusher) using **Kubeflow Pipelines** - Integrated **MLflow & DagsHub** for experiment tracking; model achieved **98% test accuracy**, enabling automated **champion/challenger promotion**.
+- Containerized steps with Docker; automated deployment via GitHub Actions + Kubernetes runners  
 - Implemented secure credential management with a GitOps-style workflow
 
 ---
@@ -85,23 +70,17 @@ Python automation assistant with voice command support for media playback, app l
 
 ## 🏅 Certifications
 
-- **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**  
+- 🏅 **Neural Networks and Deep Learning** – DeepLearning.AI (Coursera)
+  [View Certificate](https://coursera.org/verify/UB0C9HH2Z3SN)
+
+- 🏅 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
   [View Certificate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=47BC450B202B8E728B17BD6011BBC1B46405D6815984179551BC1210690045ED)
 
-- **Oracle Cloud Infrastructure 2025 Certified Data Science Professional**  
+- 🏅 **Oracle Cloud Infrastructure 2025 Certified Data Science Professional**
   [View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F6E35042998134C4213BAEB4EC38D9D6A9AB1A3BD756E1CC2A4526B87014A55F)
 
-- **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**  
+- 🏅 **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
   [View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D039486945A6846B2C0CD66E2A42D9FEFA6E351327715B4EB874B49143C9F9C3)
-
-- **Pregrad – Artificial Intelligence with Machine Learning**  
-  [View Certificate](https://cert.diceid.com/cid/LRfJlFxoXW)  
-  
-- **Pregrad – AI Project Completion (Vehicle Insurance)**  
-  [View Certificate](https://cert.diceid.com/cid/KHMiIN9xG8)
-
-- **Microsoft AI Skills Challenge 2024** – Recognition for participation  
-- **Fibonacci SOIT – AI Hands-on Session**
 
 ---
 
