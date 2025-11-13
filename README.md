@@ -19,8 +19,9 @@
 ## 🚀 Skills & Tools
 
 - **Languages:** Python, C++  
-- **AI/LLM Tools:** LangChain, Agentic AI, RAG Systems, OpenAI API  
-- **ML Frameworks:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, FastAPI, Flask  
+- **AI/LLM Tools:** LangChain, Agentic AI, RAG Systems, OpenAI API
+- **AI \& Machine Learning:** Deep Learning, Neural Networks, Model Debugging(Bias/Variance), Regularization (Dropout, L2), Batch Normalization, Advanced Optimization (Adam), Hyperparameter Tuning, Multi-Class Classification (Softmax)
+- **ML Frameworks:** Tensorflow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, FastAPI, Flask  
 - **MLOps:** MLflow, DVC, Docker, GitHub Actions (CI/CD), Kubeflow, Feast  
 - **Cloud & Infra:** - **AWS:** EC2, S3, ECR, IAM (roles & policies), Lambda, SageMaker, DynamoDB, CloudWatch (logs, dashboards, alarms), SNS, EKS, VPC & Networking (subnets, route tables, security groups), Load Balancers (ALB/ELB)  
   - **Other Platforms:** Azure, Databricks  
@@ -70,6 +71,9 @@ Python automation assistant with voice command support for media playback, app l
 
 ## 🏅 Certifications
 
+- 🏅 **Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization** – DeepLearning.AI (Coursera) 
+  [View Certificate](https://coursera.org/verify/68W4159X2HU8) 
+  
 - 🏅 **Neural Networks and Deep Learning** – DeepLearning.AI (Coursera)
   [View Certificate](https://coursera.org/verify/UB0C9HH2Z3SN)
 
